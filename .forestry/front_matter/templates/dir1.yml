@@ -1,0 +1,12 @@
+---
+label: dir1
+hide_body: false
+fields:
+- name: i1
+  type: blocks
+  label: i1
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: ttt
